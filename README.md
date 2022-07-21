@@ -10,11 +10,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
 
-<h1> BOJ Profile <h1>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungwj1023)](https://solved.ac/jungwj1023)
-
-
+    
 <h1> Github Status <h1>
 
 [![Hyunul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunul)](https://github.com/Hyunul/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunul&layout=compact)](https://github.com/Hyunul/github-readme-stats)

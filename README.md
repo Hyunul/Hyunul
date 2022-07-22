@@ -1,3 +1,8 @@
+<div align=center>
+  Hi🖐 I'm a 3rd year university student at Hanbat University's Department of Computer Engineering. My interests are big data and artificial intelligence. Nice to meet you!😊
+  <br>
+</div>
+
 <div align=left>
   <h1> 📚 Stack <h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -12,7 +17,7 @@
 
 
     
-<h1> Github Status <h1>
+<h1> 🌱 Github Status <h1>
 
 [![Hyunul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunul)](https://github.com/Hyunul/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunul&layout=compact)](https://github.com/Hyunul/github-readme-stats)
 

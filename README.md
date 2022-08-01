@@ -1,5 +1,5 @@
 <div align=left>
-  Hi🖐 I'm a 3rd year university student at Hanbat University's Department of Computer Engineering. My interests are big data and artificial intelligence. Nice to meet you!😊
+  Hi! I'm a 3rd year university student at Hanbat University's Department of Computer Engineering. My interests are big data and artificial intelligence. Nice to meet you!
   <br>
 </div>
 

@@ -1,7 +1,7 @@
-<div align=left>
+<!-- <div align=left>
   Hi! I'm a 3rd year university student at Hanbat University's Department of Computer Engineering. My interests are big data and artificial intelligence. Nice to meet you!
   <br>
-</div>
+</div> -->
 
 <div align=left>
   <h2> 📚 Below are some languages or frameworks I've used at least once. <h1>

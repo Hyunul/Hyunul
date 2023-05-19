@@ -16,11 +16,19 @@
     
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    
-    
 </div>
 
+<!-- ### ✨ Career
 
+|        Date       |         Type        |                      Contents                     |                  Organization                  |
+|:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
+| 2019.03 ~ 2019.12 |         Club        |               Create a Coding Club                |             Youngmyeong High School            |
+| 2020.03 ~ 2020.12 |      Education      |          Department of AI and BigData             |                  Woosong Univ.                 |
+|     2022.03       |      Education      |          Department of Computer Engineering       |             Hanbat National Univ.              |
+|     2023.03       |       Project       |            LMS system for managing tutors         |                     Labis                      |
+
+
+     -->
     
 <h2> 🌱 Github Status <h2>
 

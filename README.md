@@ -5,17 +5,14 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <br>
-  
-    <h3> Web <h3>
+    <h3> ✨ Web ✨ <h3>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <br>
-  
-    <h3> Database <h3>
+    <h3> ✨ Database ✨ <h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
-    
     <h3> Programming Language <h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -24,8 +21,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-        
-    <h3> Cloud <h3>
+    <h3> ✨ Cloud ✨ <h3>
     <img src="https://img.shields.io/badge/Amazon_EC2-4479A1?style=for-the-badge&logo=amazonec2&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_RDS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>

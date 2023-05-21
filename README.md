@@ -1,21 +1,33 @@
-<!-- <div align=left>
-  Hi! I'm a 3rd year university student at Hanbat University's Department of Computer Engineering. My interests are big data and artificial intelligence. Nice to meet you!
-  <br>
-</div> -->
-
-<div align=left>
-  <h2> 📚 Below are some languages or frameworks I've used at least once. <h1>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <br>
+<div align=center>
+    <h2> 📚 Below are some languages or frameworks I've used at least once. <h1>
+    <h3> Artificial Intelligence <h3>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <br>
   
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <br>
+    <h3> Web <h3>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <br>
+  
+    <h3> Database <h3>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
     
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <h3> Programming Language <h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+        
+    <h3> Cloud <h3>
+    <img src="https://img.shields.io/badge/Amazon_EC2-4479A1?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_RDS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
 <!-- ### ✨ Career
@@ -24,9 +36,9 @@
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 | 2019.03 ~ 2019.12 |         Club        |               Create a Coding Club                |             Youngmyeong High School            |
 | 2020.03 ~ 2020.12 |      Education      |          Department of AI and BigData             |                  Woosong Univ.                 |
-|     2022.03       |      Education      |          Department of Computer Engineering       |             Hanbat National Univ.              |
-|     2023.03       |       Project       |            LMS system for managing tutors         |                     Labis                      |
-
+|     2022.03       |      Education      |          Department of Computer Engineering       |              Hanbat National Univ.             |
+|     2023.03       |     OutSourcing     |            LMS system for managing tutors         |                     Labis                      |
+|     2023.05       |       Hacathon      |                   Resistance DAO                  |                  Glitch Korea                  |
 
      -->
     

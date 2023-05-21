@@ -1,6 +1,6 @@
 <div align=center>
     <h2> 📚 Below are some languages or frameworks I've used at least once. <h1>
-    <h3> Artificial Intelligence <h3>
+    <h3> ✨ Artificial Intelligence ✨ <h3>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -13,7 +13,7 @@
     <h3> ✨ Database ✨ <h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=mariadbfoundation&logoColor=white">
-    <h3> Programming Language <h3>
+    <h3> ✨ Programming Language ✨ <h3>
     <img src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">

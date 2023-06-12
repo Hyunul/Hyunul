@@ -26,15 +26,18 @@
     <img src="https://img.shields.io/badge/Amazon_RDS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
-<!-- ### ✨ Career
+<!-- ### <h2> ✨ Career <h2>
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
 | 2019.03 ~ 2019.12 |         Club        |               Create a Coding Club                |             Youngmyeong High School            |
 | 2020.03 ~ 2020.12 |      Education      |          Department of AI and BigData             |                  Woosong Univ.                 |
 |     2022.03       |      Education      |          Department of Computer Engineering       |              Hanbat National Univ.             |
+| 2022.09 ~ 2022.12 |       Project       |         Anomaly Detection with DeepLearning       |              Hanbat National Univ.             |
 |     2023.03       |     OutSourcing     |            LMS system for managing tutors         |                     Labis                      |
+| 2023.03 ~ 2022.06 |       Project       |             Cloud Semantic Segmentation           |              Hanbat National Univ.             |
 |     2023.05       |       Hacathon      |                   Resistance DAO                  |                  Glitch Korea                  |
+
 
      -->
     
@@ -44,4 +47,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->

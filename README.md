@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Amazon_RDS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
-<!-- ### <h2> ✨ Career <h2>
+<h2> ✨ Career <h2>
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
@@ -38,8 +38,6 @@
 | 2023.03 ~ 2022.06 |       Project       |             Cloud Semantic Segmentation           |              Hanbat National Univ.             |
 |     2023.05       |       Hacathon      |                   Resistance DAO                  |                  Glitch Korea                  |
 
-
-     -->
     
 <h2> 🌱 Github Status <h2>
 

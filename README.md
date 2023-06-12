@@ -37,6 +37,8 @@
 |     2023.03       |     OutSourcing     |            LMS system for managing tutors         |                     Labis                      |
 | 2023.03 ~ 2022.06 |       Project       |             Cloud Semantic Segmentation           |              Hanbat National Univ.             |
 |     2023.05       |       Hacathon      |                   Resistance DAO                  |                  Glitch Korea                  |
+| 2023.03 ~ 2023.12 |   Capstone Project  |                    Smart Planter                  |              Hanbat National Univ.             |
+        
 
     
 <h2> 🌱 Github Status <h2>

@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
     <h2> 📚 Below are some languages or frameworks I've used at least once. <h1>
     <h3> ✨ Artificial Intelligence ✨ <h3>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Amazon_RDS-4479A1?style=for-the-badge&logo=amazonrds&logoColor=white">
 </div>
 
-### ✨ Career 
+<!-- ### ✨ Career 
 
 |        Date       |         Type        |                      Contents                     |                  Organization                  |
 |:-----------------:|:-------------------:|:-------------------------------------------------:|:----------------------------------------------:|
@@ -38,7 +38,7 @@
 | 2023.03 ~ 2022.06 |       Project       |             Cloud Semantic Segmentation           |              Hanbat National Univ.             |
 |     2023.05       |       Hacathon      |                   Resistance DAO                  |                  Glitch Korea                  |
 | 2023.03 ~ 2023.12 |   Capstone Project  |                    Smart Planter                  |              Hanbat National Univ.             |
-        
+         -->
 
     
 <h2> 🌱 Github Status <h2>

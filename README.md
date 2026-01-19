@@ -1,5 +1,5 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello&animation=twinkling&fontColor=000000&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Good to See You!&animation=twinkling&fontColor=000000&fontSize=60" />
 </div>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 About Me </h2>  
@@ -41,7 +41,7 @@
 </div>
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-  <div style="text-align: left;">
+<div style="text-align: left;">
     <a href=hyunul.tistory.com>
       <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=hyunul.tistory.com">
     </a>

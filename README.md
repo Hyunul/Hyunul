@@ -30,9 +30,10 @@
   
   ## 🤔 Stats
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jungwj1023)](https://solved.ac/jungwj1023)  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunul)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunul)](https://github.com/anuraghazra/github-readme-stats)  
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunul)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunul)](https://github.com/anuraghazra/github-readme-stats)  -->
 </div>
 
 <!--

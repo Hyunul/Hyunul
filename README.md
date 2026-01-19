@@ -1,5 +1,5 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Good to See You!&animation=twinkling&fontColor=000000&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Good%20to%20See%20You!&animation=twinkling&fontColor=000000&fontSize=60" />
 </div>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 About Me </h2>  
@@ -10,8 +10,8 @@
   </div> 
 </div>
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-  <div style="margin: ; text-align: left;" "text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+  <div style="text-align: left;">
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">

@@ -5,7 +5,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 About Me </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     <p>🙋 I am a Backend Engineer from South Korea.</p>
-    <p>🔥 I aim to become a Cloud Engineer.</p>
     <p>🎓 Bachelor of Applied Artificial Intelligence, Hanbat University(HBNU)</p>
   </div> 
 </div>

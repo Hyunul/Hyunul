@@ -1,40 +1,57 @@
-<div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Good%20to%20See%20You!&animation=twinkling&fontColor=000000&fontSize=60" />
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dAgY7zUqd8E"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E&theme=terminal" alt="SoundBadge" /></a>
 </div>
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👀 About Me </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    <p>🙋 I am a Backend Engineer from South Korea.</p>
-    <p>🎓 Bachelor of Applied Artificial Intelligence, Hanbat University(HBNU)</p>
-  </div> 
+
+<br>
+
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <!-- <img width="150"
+    src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=1d&v=20260218"
+    alt="profile" />
+  <br><br> -->
+  <p>
+    <b>Hyunul</b><br>
+    Backend Developer
+  </p>
+  <a href="https://velog.io/@gguip/posts"><img src="https://img.shields.io/badge/Tistory-F44336?style=round-square&logo=Tistory&logoColor=white" /></a>
 </div>
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-  <div style="text-align: left;">
-    <h3>Languages</h3>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <br/>
-    <h3>Frameworks</h3>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=FastAPI&logoColor=white">
-    <br/>
-    <h3>Web</h3>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-    <br />
-    <h3>DB</h3>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-4479A1?style=flat&logo=Redis&logoColor=white">
-    <br />
-    <h3>Etc.</h3>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitActions-181717?style=flat&logo=GithubActions&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
-    <br/>
-  </div>
+<br clear="both">
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+**Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,flask&theme=dark" height="35" />
+
+**Cloud** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" height="35" />
+
+**Etc** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql,redis,git&theme=dark" height="35" />
+
 </div>
+
+<br>
+
+<h2 align="center">Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/gguip1/ArcanaWhisper-Back"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117&description_lines_count=2" width="400" /></a>
+  <a href="https://github.com/gguip1/SoundBadge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=SoundBadge&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117&description_lines_count=2" width="400" /></a>
+</div>
+
+<br>
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+<a href="https://www.git-ranker.com/users/hyunul"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBgZZsA" height="165" /></a>
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jungwj1023" height="165" />
+
+</div>
+
+<!-- <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=enfycius&color=1f6feb&style=flat-square&label=visitors" />
+</div> -->

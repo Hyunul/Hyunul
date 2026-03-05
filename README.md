@@ -33,6 +33,7 @@
 
 <br>
 
+<!-- 
 <h2 align="center">Projects</h2>
 
 <div align="center">
@@ -50,7 +51,7 @@
 
 </div>
 
-<!-- <br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=enfycius&color=1f6feb&style=flat-square&label=visitors" />

@@ -15,7 +15,7 @@
     <b>Hyunul</b><br>
     Backend Developer
   </p>
-  <a href="https://velog.io/@gguip/posts"><img src="https://img.shields.io/badge/Tistory-F44336?style=round-square&logo=Tistory&logoColor=white" /></a>
+  <!-- <a href="https://velog.io/@gguip/posts"><img src="https://img.shields.io/badge/Tistory-F44336?style=round-square&logo=Tistory&logoColor=white" /></a> -->
 </div>
 <br clear="both">
 

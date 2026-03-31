@@ -12,7 +12,7 @@
 | **Collaboration** | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/svn-809CC9?style=for-the-badge&logo=subversion&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
 ---
 
-<--
+<!--
 ## 🔭 Currently Working On
 - 📝 **개발 블로그** | 실무 개발 경험, 트러블슈팅, 개인 학습, 업무 방법론 공유
 

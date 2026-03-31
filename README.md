@@ -1,58 +1,27 @@
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=UF0bVe_9X7c&list=RDUF0bVe_9X7c"><img src="https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=UF0bVe_9X7c&list=RDUF0bVe_9X7c&theme=terminal" alt="SoundBadge" /></a>
-</div>
+# 🚀 안녕하세요. 웹개발자 정우진입니다.
 
-<br>
+## 🛠 Tech Stack
 
-<h2 align="center">About Me</h2>
+### 💻 Languages & Frameworks
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |
+| **Frontend** | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"> |
+| **Backend** | <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/aws_ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> |
+| **Collaboration** | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/svn-809CC9?style=for-the-badge&logo=subversion&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+---
 
-<div align="center">
-  <!-- <img width="150"
-    src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=1d&v=20260218"
-    alt="profile" />
-  <br><br> -->
-  <p>
-    <b>Hyunul</b><br>
-    Backend Developer
-  </p>
-  <!-- <a href="https://velog.io/@gguip/posts"><img src="https://img.shields.io/badge/Tistory-F44336?style=round-square&logo=Tistory&logoColor=white" /></a> -->
-</div>
-<br clear="both">
+<--
+## 🔭 Currently Working On
+- 📝 **개발 블로그** | 실무 개발 경험, 트러블슈팅, 개인 학습, 업무 방법론 공유
 
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-
-**Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,flask&theme=dark" height="35" />
-
-**Cloud** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" height="35" />
-
-**Etc** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql,redis,git&theme=dark" height="35" />
-
-</div>
-
-<br>
-
-<!-- 
-<h2 align="center">Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/gguip1/ArcanaWhisper-Back"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117&description_lines_count=2" width="400" /></a>
-  <a href="https://github.com/gguip1/SoundBadge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=SoundBadge&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117&description_lines_count=2" width="400" /></a>
-</div>
-
-<br>
-
-<h2 align="center">Stats</h2>
-
-<div align="center">
-<a href="https://www.git-ranker.com/users/hyunul"><img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBgZZsA" height="165" /></a>
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jungwj1023" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enfycius&color=1f6feb&style=flat-square&label=visitors" />
-</div> -->
+## 📝 Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [메모리 관리 방식에 따른 언어 분류: Managed vs Unmanaged Language](https://younggil2.github.io/it/2026-01-31-managed-unmanaged-languages/)
+- [GitHub 프로필 꾸미기: 나만의 개발자 포트폴리오 대문 만들기](https://younggil2.github.io/it/2026-01-26-github-profile-decoration/)
+- [Laravel Request Lifecycle &lpar;라라벨 요청 생명주기&rpar;](https://younggil2.github.io/backend/2026-01-18-laravel-lifecycle/)
+- [TypeScript 유틸리티 타입 정리](https://younggil2.github.io/javascript/2026-01-18-typescript-advanced/)
+- [이메일/SMS 인증 시스템 구축기](https://younggil2.github.io/work/2025-12-18-verificationService/)
+<!-- BLOG-POST-LIST:END -->
+-->
